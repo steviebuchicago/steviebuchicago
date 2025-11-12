@@ -1,4 +1,4 @@
-## Hello World 🌎, I'm Duncan!
+## Hello World 🌎, I'm Steve!
 
 I am a data scientist and technical product manager with 7+ years of experience leveraging cutting-edge technologies to build great products. I am passionate about solving complex problems, contributing to open-source software, continuous learning, and fostering meaningful professional relationships.
 
