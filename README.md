@@ -1,42 +1,42 @@
-## Hello World 🌎, I'm Steve!
+![Banner](https://github.com/ChrisSalzzz/ChrisSalzzz/blob/main/1682889435344.jpg?raw=true)
 
-I am a data scientist and technical product manager with 7+ years of experience leveraging cutting-edge technologies to build great products. I am passionate about solving complex problems, contributing to open-source software, continuous learning, and fostering meaningful professional relationships.
+# Hi there, I'm Chris Saldivar 👋
 
-I hold a M.S. in Applied Data Science from the University of Chicago, a B.S. certificate in Software Development and Programming from the University of California, Berkeley, and a B.A. in History and Political Science from the University of California, Santa Barbara. I’ve worked across several industries throughout my careers, including big tech, finance, academia, and legal.
+I'm passionate about leveraging technology to build intelligent solutions that make a difference in people's lives and across industries. With over 10 years of professional experience, I specialize in Power Platform development and SharePoint architecture, creating smart systems that enhance productivity, collaboration, and decision-making.
 
-My current research and development areas include robotic route planning, computer vision, and multimodal large language models (MLLM).
+In my current role as a Low Code/No Code Developer and SharePoint Architect, I bring 6 years of experience to the table, driving innovation through custom app development and seamless integration within the Microsoft ecosystem. I'm dedicated to contributing to open-source projects, particularly those related to Power Platform development and AI, and I love sharing examples and best practices as code on this repository.
 
-### Languages & Tools
-<p align="left">
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
-  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> 
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> 
-  <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+## About Me:
+- **😄 Expertise:** Low Code/No Code Developer | SharePoint Architect
+- **💼 Professional Experience:** 6 years as a Developer and SharePoint Architect
+- **📫 Connect with Me:** [LinkedIn](https://www.linkedin.com/in/csaldivar)
+- **⚓ Fun Fact:** I am a Petty Officer 2nd Class in the Navy and was a prior Marine for 8 years.
+- **👨‍🏫 Fun Fact:** I work with young professionals, mentoring them to achieve their professional goals and leveraging technology to do it.
 
-### Let's connect 💬
----
-[![Linkedin Badge](https://img.shields.io/badge/-DuncanCalvert-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/duncan-calvert/)](https://www.linkedin.com/in/duncan-calvert/) 
-[![Gmail Badge](https://img.shields.io/badge/-duncanscalvert@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:duncanscalvert@gmail.com)](mailto:duncanscalvert@gmail.com)
+## TechStack:
+Areas of Experience: 
+
+![Static Badge](https://img.shields.io/badge/Developer-red?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Low%20Code%2F%20No%20Code%20-%20black?style=for-the-badge&logo=azure)
+![Static Badge](https://img.shields.io/badge/Data%20Science%20-beige?style=for-the-badge&logo=azure)
+
+Languages: 
+
+![Static Badge](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&color=yellow)
+![Static Badge](https://img.shields.io/badge/JSON%20-%20black?style=for-the-badge&logo=json)
+![Static Badge](https://img.shields.io/badge/powershell%20-%20%2306C2AC?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=sql)
+
+Application Development and User Interface:
+
+![Static Badge](https://img.shields.io/badge/PowerApps-8A2BE2?style=for-the-badge&logo=powerapps)
+![Static Badge](https://img.shields.io/badge/Power%20Automate%20-196DE5?style=for-the-badge&logo=powerapps)
+![Static Badge](https://img.shields.io/badge/SharePoint-cyan?style=for-the-badge&logo=sharepoint)
+![Static Badge](https://img.shields.io/badge/Dataverse-darkgreen?style=for-the-badge)
+
+Cloud Services and Intergration:
+
+![Static Badge](https://img.shields.io/badge/Azure-blue?style=for-the-badge&logo=azure)
+![Static Badge](https://img.shields.io/badge/API%20-%20orange?style=for-the-badge)
+
+
