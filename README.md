@@ -56,6 +56,7 @@
 ## Credentials
 
 **MS, Applied Data Science** — University of Chicago · **BA, History** — University of Iowa
+
 **CISSP** · **CCSP** · **CCSK** · **Azure AI Engineer Associate** · **AWS Solutions Architect – Associate** · **MCSE / MCSD Azure**
 
 ## Teaching &amp; thought leadership
