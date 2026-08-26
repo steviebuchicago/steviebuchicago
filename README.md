@@ -1,70 +1,134 @@
-<img src="banner.png" alt="Stephen A. Barry — Technology Executive · CTO Scope · Data &amp; AI · Cloud · Financial Services" width="100%">
+![Stephen A. Barry - Chief Technology Officer, Asset & Wealth Management](https://raw.githubusercontent.com/steviebuchicago/steviebuchicago/main/banner.png)
 
-### Head of Data &amp; Technology (CTO scope) &amp; Member Owner — Savant Wealth Management
+### CTO & AI Leader, Asset & Wealth Management — Head of Technology, Savant Wealth Management | Professor of AI, University of Chicago
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-stevebarry25-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/stevebarry25)
-[![Email](https://img.shields.io/badge/Email-stevieb%40uchicago.edu-4EA8DE?style=flat-square)](mailto:stevieb@uchicago.edu)
-![Location](https://img.shields.io/badge/Chicago-IL-475569?style=flat-square)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-stevebarry25-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stevebarry25/)
+![UChicago](https://img.shields.io/badge/Professor%20of%20AI-University%20of%20Chicago-800000?style=for-the-badge)
+![Location](https://img.shields.io/badge/Greater%20Chicago-424242?style=for-the-badge&logo=googlemaps&logoColor=white)
+![Open to conversations](https://img.shields.io/badge/Open%20to%20conversations-2EA043?style=for-the-badge)
 
-25+ years in financial services technology — and still the person who architects the platform. I own technology strategy, the AI roadmap, cyber posture, and M&A integration at a PE-sponsored RIA that has grown from **$28B to $61B in AUM since April 2024**, and I carry that story to the board, to the firm's private equity sponsor, and to CEOs across the sponsor's portfolio. Lecturer at the University of Chicago Data Science Institute.
+Twenty-five years building the technology that asset and wealth management firms actually run on — and still the person who opens the architecture diagram.
+
+**Nineteen of those years were at William Blair**, where I went from engineering manager to Director of Enterprise Architecture & Data with CIO-scope ownership of architecture, cloud, data, AI, DevOps, and resiliency across a global investment bank, asset manager, and private wealth firm. Today I hold CTO-level scope at Savant Wealth Management, a PE-sponsored RIA that has roughly doubled from $28B to $61B in AUM since April 2024 — technology strategy, AI roadmap, cyber posture, and the M&A integration engine, carried to Savant's board, the firm's private equity sponsor, and CEOs across the sponsor's portfolio. I also teach it: **Professor of AI in the University of Chicago's MS in Applied Data Science**, a joint program with the Booth School of Business.
 
 ---
 
 ## Value delivered
 
-- **2x scale-up under PE sponsorship** — $28B → $61B AUM since April 2024. I own the technology that makes each successive acquisition faster to onboard, cheaper to run, and more accretive.
-- **$250M+ in attributable revenue** — architected the AI-driven M&A buyer/seller scoring system at William Blair (FY2022), alongside one of the first production LLM deployments in U.S. investment banking.
-- **+25% advisor productivity** — AI meeting-notetaking rolled out across the advisor force, ~4,000 transcripts processed by AI agents, and the co-advisor staffing model retired on most accounts.
-- **Zero security breaches** during tenure, down from ~8 per year — while AUM more than doubled and acquisition cadence accelerated.
-- **17 apps → 1 workspace** — advisor workspace consolidation live in pilot on real advisor and client data, with a roadmap of 192 planned AI agents across advisory, operations, and growth.
-- **2x qualified leads on the same ad budget** — look-alike and lead-prediction models behind 8.0% organic growth, with Epsilon big-data audience matching in production.
+**$250M+ in attributable investment banking revenue** — architected the AI-driven M&A buyer/seller scoring system at William Blair (FY2022). A competitive differentiator in mandate wins, built on the modern data estate I put underneath it.
+
+**$28B → $61B in AUM, roughly 2x in twenty-four months** — CTO of record at Savant through the fastest growth stretch in the firm's history, owning the technology that makes each successive acquisition faster to onboard, cheaper to run, and more accretive.
+
+**Nineteen years at William Blair, ending with CIO scope** — enterprise architecture, cloud, data, AI, DevOps, and resiliency for a global investment bank, asset manager, and private wealth firm under SEC, FINRA, and SOX oversight. Led a senior team of ten architects with matrixed influence over 100+ engineers and data scientists.
+
+**Advisor productivity up to +25% through AI automation** — rolled out AI meeting-notetaking across Savant's advisor force, ~4,000 transcripts processed by AI agents, retiring the co-advisor staffing model on most accounts. Directly raised revenue per advisor and lowered cost-to-serve.
+
+**Security breaches eliminated entirely** — zero breaches during tenure, down from an average of ~8 per year, while AUM more than doubled and acquisition cadence accelerated.
+
+**Seventeen applications collapsing into one screen** — consolidating the 17+ applications an advisor touches daily into a single workspace, with pilots live on real advisor and client data and a roadmap of 192 planned AI agents across advisory, operations, and growth.
+
+**95% cloud data center adoption, 60% PaaS** — led William Blair's cloud transformation to that posture by 2022, with platform governance, multi-cloud cost management, and hybrid integration.
+
+**Among the first production LLM deployments in U.S. investment banking** — privileged GPT-2 early access, then live LLM-assisted M&A due diligence in December 2022, well ahead of the field.
 
 ---
 
 ## How I work
 
-| As a CTO | As a builder |
+| As a CTO | As a builder and teacher |
 | --- | --- |
-| Enterprise technology strategy and roadmap ownership | Architecting a federated AI platform for wealth management |
-| Board and PE-sponsor reporting; EBITDA-aware investment decisions | Medallion lakehouse on Microsoft Fabric and Snowflake |
-| M&A technology due diligence and post-close integration | Agentic AI workflows, MLOps, AI governance, prompt engineering |
-| Cyber risk, SEC/FINRA/SOX compliance, DR and resiliency | Governed API integration across Salesforce, Tamarac, eMoney, Jump AI |
-| Strategic vendor negotiation and TCO across cloud, data, security, AI | Cloud migration and FinOps — 95% cloud and 60% PaaS adoption delivered |
-| Built and led teams of 20 to 50+ engineers, scientists, architects | Still hands on the data, the cloud, and the architecture |
+| Own technology strategy, AI roadmap, cyber posture, and M&A integration for a $61B asset base | Still architect the platform myself — lakehouse design, agent orchestration, integration patterns |
+| Present technology strategy, AI adoption, and cyber risk to the board and the PE sponsor | Built the firm's unified data estate on Microsoft Fabric and Snowflake, medallion architecture end to end |
+| EBITDA-aware investment decisions; vendor negotiation and total cost of ownership | Agentic AI workflows running in production, not sitting on a slide |
+| Technology due diligence and post-close integration across a continuous acquisition cadence | Governed API integration across Salesforce, Tamarac, eMoney, and the advisor stack |
+| Regulatory and resiliency posture under SEC, FINRA, SOX, and state insurance oversight | CISSP / CCSP / CCSK — security architecture I can defend line by line |
+| Build and develop 40-person teams of engineers, data scientists, architects, and analysts | Teach Data Engineering, Big Data, and Cloud Scalable Data Platforms at UChicago |
+
+---
+
+## Domains
+
+![Wealth Management](https://img.shields.io/badge/Wealth%20Management%20%2F%20RIA-1B3A5C?style=for-the-badge)
+![Asset Management](https://img.shields.io/badge/Asset%20Management-1B3A5C?style=for-the-badge)
+![Investment Banking](https://img.shields.io/badge/Investment%20Banking-1B3A5C?style=for-the-badge)
+![Private Wealth](https://img.shields.io/badge/Private%20Wealth-1B3A5C?style=for-the-badge)
+![Insurance](https://img.shields.io/badge/Insurance-1B3A5C?style=for-the-badge)
+![PE-Backed M&A](https://img.shields.io/badge/PE--Backed%20M%26A-1B3A5C?style=for-the-badge)
 
 ---
 
 ## Stack
 
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-0F6CBD?style=flat-square&logo=microsoft&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+**Cloud & Data Platform**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
-![Claude](https://img.shields.io/badge/Anthropic%20Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![Copilot](https://img.shields.io/badge/Microsoft%20Copilot-8E75B2?style=flat-square&logo=githubcopilot&logoColor=white)
-![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Fabric](https://img.shields.io/badge/Microsoft%20Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+
+**AI & Analytics**
+
+![Claude](https://img.shields.io/badge/Anthropic%20Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Copilot](https://img.shields.io/badge/Microsoft%20365%20Copilot-7B4FCB?style=for-the-badge&logo=microsoft&logoColor=white)
+![Azure OpenAI](https://img.shields.io/badge/Azure%20OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Vertex AI](https://img.shields.io/badge/Vertex%20AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![MLOps](https://img.shields.io/badge/MLOps-0B6A0B?style=for-the-badge&logo=mlflow&logoColor=white)
+
+**Build & Automate**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![Power Platform](https://img.shields.io/badge/Power%20Platform-742774?style=for-the-badge&logo=powerapps&logoColor=white)
+![APIs](https://img.shields.io/badge/Governed%20APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+**Security & Governance**
+
+![CISSP](https://img.shields.io/badge/CISSP-A6192E?style=for-the-badge&logo=isc2&logoColor=white)
+![CCSP](https://img.shields.io/badge/CCSP-A6192E?style=for-the-badge&logo=isc2&logoColor=white)
+![CCSK](https://img.shields.io/badge/CCSK-1F4E79?style=for-the-badge&logo=cloudsmith&logoColor=white)
+![Purview](https://img.shields.io/badge/Microsoft%20Purview-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Entra](https://img.shields.io/badge/Microsoft%20Entra-2F6FEB?style=for-the-badge&logo=microsoft&logoColor=white)
+
+---
+
+## Selected work
+
+**AI-driven M&A buyer/seller scoring — William Blair** — the system that put $250M+ of attributable investment banking revenue on the board in FY2022, alongside one of the first production LLM deployments in U.S. investment banking.
+
+**Federated AI platform for wealth management** — architecting a multi-model AI platform with leading foundation-model and infrastructure partners, designed to compound advisor productivity, compress cost-to-serve, and hold as a durable moat as the firm keeps acquiring.
+
+**Unified advisor workspace** — the 17+ applications an advisor touches daily, collapsed into one screen. Live pilots on real advisor and client data, with 192 AI agents mapped across advisory, operations, and growth workflows.
+
+**Unified data estate on Fabric and Snowflake** — medallion lakehouse with curated and reporting layers, governed API integration across Salesforce, Tamarac, eMoney, and Jump AI, and master data management underneath enterprise analytics, AI, and Power BI.
+
+**M&A technology integration playbook** — repeatable diligence, post-close integration, and stack rationalization that compress time-to-synergy on every acquisition in an RIA roll-up.
+
+---
+
+## Teaching
+
+**Professor of AI — University of Chicago, MS in Applied Data Science** (2020 – present), a joint program with the Booth School of Business.
+
+Data Engineering for Data Science · Big Data · Cloud Scalable Data Platforms · Robotics — including hands-on Databricks and Snowflake instruction. Previously managed the program's GCP footprint, including Vertex AI and BigQuery. Frequent faculty panelist on generative AI, MLOps, and the future of applied data science.
 
 ---
 
 ## Credentials
 
-**MS, Applied Data Science** — University of Chicago · **BA, History** — University of Iowa
+**MS, Applied Data Science — University of Chicago** · **BA, History — University of Iowa**
 
-**CISSP** · **CCSP** · **CCSK** · **Azure AI Engineer Associate** · **AWS Solutions Architect – Associate** · **MCSE / MCSD Azure**
-
-## Teaching &amp; thought leadership
-
-**Lecturer, University of Chicago Data Science Institute** — MS in Applied Data Science, joint with Booth. Data Engineering for Data Science, Big Data, Cloud Scalable Data Platforms, and Robotics, including hands-on Databricks and Snowflake.
-
-Microsoft Synapse &amp; Power BI Advisory Boards (2021–2024) · WEKA Titans of AI · P33 Chicago Tech Week AI/ML panel · William Blair LLM Speaker Series · Informatica World · UChicago faculty panels at DSI, Booth, and the Graham School
+CISSP (ISC2) · CCSP (ISC2) · CCSK (CSA) · Azure AI Engineer Associate · AWS Solutions Architect – Associate · MCSE / MCSD Azure · Kellogg Executive Education, Design Thinking
 
 ---
 
-<sub>Generative AI in financial services since GPT-2 early access. Currently building the platform that compounds advisor productivity at scale.</sub>
+## Track record
+
+**Savant Wealth Management** · **University of Chicago** · **William Blair & Company (19 years)** · Allstate Insurance · Allin Consulting · Midland Business Systems
+
+Microsoft Synapse & Power BI Advisory Boards (2021 – 2024). Selected speaking: UChicago Data Science Institute, Booth, and Graham School faculty panels · WEKA Titans of AI · P33 Chicago Tech Week · William Blair LLM Speaker Series · Informatica World.
+
+Twenty-five years on the operating side of the same problem: making regulated asset and wealth management firms actually get value out of the technology they buy.
