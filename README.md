@@ -9,7 +9,7 @@
 
 Twenty-five years building the technology that asset and wealth management firms actually run on — and still the person who opens the architecture diagram.
 
-**Nineteen of those years were at William Blair**, where I went from engineering manager to Director of Enterprise Architecture & Data with CIO-scope ownership of architecture, cloud, data, AI, DevOps, and resiliency across a global investment bank, asset manager, and private wealth firm. Today I hold CTO-level scope at Savant Wealth Management, a PE-sponsored RIA that has roughly doubled from $28B to $61B in AUM since April 2024 — technology strategy, AI roadmap, cyber posture, and the M&A integration engine, carried to Savant's board, the firm's private equity sponsor, and CEOs across the sponsor's portfolio. I also teach it: **Professor of AI in the University of Chicago's MS in Applied Data Science**, a joint program with the Booth School of Business.
+**Nineteen of those years were at William Blair**, where I went from engineering manager to Director of Enterprise Architecture & Data with CIO-scope ownership of architecture, cloud, data, AI, DevOps, and resiliency across a global investment bank, asset manager, and private wealth firm. Today I hold CTO-level scope at Savant Wealth Management, a PE-backed national RIA in a period of rapid, acquisition-driven growth — technology strategy, AI roadmap, cyber posture, and the M&A integration engine, presented at the board and investor level. I also teach it: **Professor of AI in the University of Chicago's MS in Applied Data Science**, a joint program with the Booth School of Business.
 
 ---
 
@@ -17,15 +17,15 @@ Twenty-five years building the technology that asset and wealth management firms
 
 **$250M+ in attributable investment banking revenue** — architected the AI-driven M&A buyer/seller scoring system at William Blair (FY2022). A competitive differentiator in mandate wins, built on the modern data estate I put underneath it.
 
-**$28B → $61B in AUM, roughly 2x in twenty-four months** — CTO of record at Savant through the fastest growth stretch in the firm's history, owning the technology that makes each successive acquisition faster to onboard, cheaper to run, and more accretive.
+**Technology through a period of rapid, acquisition-driven growth** — CTO of record at a PE-backed RIA while assets under management roughly doubled, owning the technology that makes each successive acquisition faster to onboard, cheaper to run, and more accretive.
 
 **Nineteen years at William Blair, ending with CIO scope** — enterprise architecture, cloud, data, AI, DevOps, and resiliency for a global investment bank, asset manager, and private wealth firm under SEC, FINRA, and SOX oversight. Led a senior team of ten architects with matrixed influence over 100+ engineers and data scientists.
 
-**Advisor productivity up to +25% through AI automation** — rolled out AI meeting-notetaking across Savant's advisor force, ~4,000 transcripts processed by AI agents, retiring the co-advisor staffing model on most accounts. Directly raised revenue per advisor and lowered cost-to-serve.
+**Advisor productivity raised through AI automation** — rolled out AI meeting-notetaking and agent-based follow-up across a national advisor force, changing how advisory teams are staffed on most accounts. Directly raised revenue per advisor and lowered cost-to-serve.
 
-**Security breaches eliminated entirely** — zero breaches during tenure, down from an average of ~8 per year, while AUM more than doubled and acquisition cadence accelerated.
+**Security posture rebuilt for a firm that acquires continuously** — zero breaches during tenure, a step change from the firm's prior history, while assets more than doubled and acquisition cadence accelerated.
 
-**Seventeen applications collapsing into one screen** — consolidating the 17+ applications an advisor touches daily into a single workspace, with pilots live on real advisor and client data and a roadmap of 192 planned AI agents across advisory, operations, and growth.
+**A fragmented advisor desktop collapsing into one workspace** — consolidating the many applications an advisor touches every day into a single AI-native workspace, with pilots live on real advisor and client data and a roadmap of AI agents across advisory, operations, and growth.
 
 **95% cloud data center adoption, 60% PaaS** — led William Blair's cloud transformation to that posture by 2022, with platform governance, multi-cloud cost management, and hybrid integration.
 
@@ -37,10 +37,10 @@ Twenty-five years building the technology that asset and wealth management firms
 
 | As a CTO | As a builder and teacher |
 | --- | --- |
-| Own technology strategy, AI roadmap, cyber posture, and M&A integration for a $61B asset base | Still architect the platform myself — lakehouse design, agent orchestration, integration patterns |
-| Present technology strategy, AI adoption, and cyber risk to the board and the PE sponsor | Built the firm's unified data estate on Microsoft Fabric and Snowflake, medallion architecture end to end |
+| Own technology strategy, AI roadmap, cyber posture, and M&A integration for a national RIA | Still architect the platform myself — lakehouse design, agent orchestration, integration patterns |
+| Present technology strategy, AI adoption, and cyber risk at the board and investor level | Built the firm's unified data estate on Microsoft Fabric and Snowflake, medallion architecture end to end |
 | EBITDA-aware investment decisions; vendor negotiation and total cost of ownership | Agentic AI workflows running in production, not sitting on a slide |
-| Technology due diligence and post-close integration across a continuous acquisition cadence | Governed API integration across Salesforce, Tamarac, eMoney, and the advisor stack |
+| Technology due diligence and post-close integration across a continuous acquisition cadence | Governed API integration across the CRM, portfolio management, financial planning, and advisor stack |
 | Regulatory and resiliency posture under SEC, FINRA, SOX, and state insurance oversight | CISSP / CCSP / CCSK — security architecture I can defend line by line |
 | Build and develop 40-person teams of engineers, data scientists, architects, and analysts | Teach Data Engineering, Big Data, and Cloud Scalable Data Platforms at UChicago |
 
@@ -99,11 +99,11 @@ Twenty-five years building the technology that asset and wealth management firms
 
 **AI-driven M&A buyer/seller scoring — William Blair** — the system that put $250M+ of attributable investment banking revenue on the board in FY2022, alongside one of the first production LLM deployments in U.S. investment banking.
 
-**Federated AI platform for wealth management** — architecting a multi-model AI platform with leading foundation-model and infrastructure partners, designed to compound advisor productivity, compress cost-to-serve, and hold as a durable moat as the firm keeps acquiring.
+**Federated AI platform for wealth management** — architecting a multi-model AI platform with leading foundation-model and infrastructure partners, designed to compound advisor productivity, compress cost-to-serve, and hold as a durable moat for a firm that keeps acquiring.
 
-**Unified advisor workspace** — the 17+ applications an advisor touches daily, collapsed into one screen. Live pilots on real advisor and client data, with 192 AI agents mapped across advisory, operations, and growth workflows.
+**Unified advisor workspace** — the sprawl of applications an advisor touches daily, collapsed into one AI-native screen. Live pilots on real advisor and client data, with a catalog of AI agents mapped across advisory, operations, and growth workflows.
 
-**Unified data estate on Fabric and Snowflake** — medallion lakehouse with curated and reporting layers, governed API integration across Salesforce, Tamarac, eMoney, and Jump AI, and master data management underneath enterprise analytics, AI, and Power BI.
+**Unified data estate on Fabric and Snowflake** — medallion lakehouse with curated and reporting layers, governed API integration across CRM, portfolio management, financial planning, and AI meeting-intelligence platforms, and master data management underneath enterprise analytics, AI, and Power BI.
 
 **M&A technology integration playbook** — repeatable diligence, post-close integration, and stack rationalization that compress time-to-synergy on every acquisition in an RIA roll-up.
 
