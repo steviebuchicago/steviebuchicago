@@ -1,6 +1,6 @@
 ![Stephen A. Barry - Chief Technology Officer, Asset & Wealth Management](https://raw.githubusercontent.com/steviebuchicago/steviebuchicago/main/banner.png)
 
-### CTO & AI Leader, Asset & Wealth Management — Head of Technology, Savant Wealth Management | Professor of AI, University of Chicago
+### CTO & AI Leader, Asset & Wealth Management — Head of Technology at a PE-backed national RIA | Professor of AI, University of Chicago
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-stevebarry25-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stevebarry25/)
 ![UChicago](https://img.shields.io/badge/Professor%20of%20AI-University%20of%20Chicago-800000?style=for-the-badge)
@@ -9,7 +9,7 @@
 
 Twenty-five years building the technology that asset and wealth management firms actually run on — and still the person who opens the architecture diagram.
 
-**Nineteen of those years were at William Blair**, where I went from engineering manager to Director of Enterprise Architecture & Data with CIO-scope ownership of architecture, cloud, data, AI, DevOps, and resiliency across a global investment bank, asset manager, and private wealth firm. Today I hold CTO-level scope at Savant Wealth Management, a PE-backed national RIA in a period of rapid, acquisition-driven growth — technology strategy, AI roadmap, cyber posture, and the M&A integration engine, presented at the board and investor level. I also teach it: **Professor of AI in the University of Chicago's MS in Applied Data Science**, a joint program with the Booth School of Business.
+**Nineteen of those years were at William Blair**, where I went from engineering manager to Director of Enterprise Architecture & Data with CIO-scope ownership of architecture, cloud, data, AI, DevOps, and resiliency across a global investment bank, asset manager, and private wealth firm. Today I hold CTO-level scope at a PE-backed national RIA that has roughly doubled its assets under management in two years through a continuous acquisition cadence — technology strategy, AI roadmap, cyber posture, and the M&A integration engine, presented to the board, the private equity sponsor, and CEOs across the sponsor's portfolio. I also teach it: **Professor of AI in the University of Chicago's MS in Applied Data Science**, a joint program with the Booth School of Business.
 
 ---
 
@@ -17,15 +17,15 @@ Twenty-five years building the technology that asset and wealth management firms
 
 **$250M+ in attributable investment banking revenue** — architected the AI-driven M&A buyer/seller scoring system at William Blair (FY2022). A competitive differentiator in mandate wins, built on the modern data estate I put underneath it.
 
-**Technology through a period of rapid, acquisition-driven growth** — CTO of record at a PE-backed RIA while assets under management roughly doubled, owning the technology that makes each successive acquisition faster to onboard, cheaper to run, and more accretive.
+**AUM roughly doubled in two years** — CTO of record at a PE-backed national RIA through the fastest growth stretch in the firm's history, owning the technology that makes each successive acquisition faster to onboard, cheaper to run, and more accretive.
 
 **Nineteen years at William Blair, ending with CIO scope** — enterprise architecture, cloud, data, AI, DevOps, and resiliency for a global investment bank, asset manager, and private wealth firm under SEC, FINRA, and SOX oversight. Led a senior team of ten architects with matrixed influence over 100+ engineers and data scientists.
 
-**Advisor productivity raised through AI automation** — rolled out AI meeting-notetaking and agent-based follow-up across a national advisor force, changing how advisory teams are staffed on most accounts. Directly raised revenue per advisor and lowered cost-to-serve.
+**Advisor productivity up by double digits through AI automation** — rolled out AI meeting-notetaking across a national advisor force, with thousands of client-meeting transcripts processed by AI agents, retiring the co-advisor staffing model on most accounts. Directly raised revenue per advisor and lowered cost-to-serve.
 
-**Security posture rebuilt for a firm that acquires continuously** — zero breaches during tenure, a step change from the firm's prior history, while assets more than doubled and acquisition cadence accelerated.
+**Security breaches eliminated entirely** — zero breaches during tenure, down from several per year before, while assets more than doubled and acquisition cadence accelerated.
 
-**A fragmented advisor desktop collapsing into one workspace** — consolidating the many applications an advisor touches every day into a single AI-native workspace, with pilots live on real advisor and client data and a roadmap of AI agents across advisory, operations, and growth.
+**More than a dozen applications collapsing into one screen** — consolidating the sprawl of applications an advisor touches every day into a single AI-native workspace, with pilots live on real advisor and client data and a roadmap of well over a hundred AI agents across advisory, operations, and growth.
 
 **95% cloud data center adoption, 60% PaaS** — led William Blair's cloud transformation to that posture by 2022, with platform governance, multi-cloud cost management, and hybrid integration.
 
@@ -37,8 +37,8 @@ Twenty-five years building the technology that asset and wealth management firms
 
 | As a CTO | As a builder and teacher |
 | --- | --- |
-| Own technology strategy, AI roadmap, cyber posture, and M&A integration for a national RIA | Still architect the platform myself — lakehouse design, agent orchestration, integration patterns |
-| Present technology strategy, AI adoption, and cyber risk at the board and investor level | Built the firm's unified data estate on Microsoft Fabric and Snowflake, medallion architecture end to end |
+| Own technology strategy, AI roadmap, cyber posture, and M&A integration for a multi-billion-dollar national RIA | Still architect the platform myself — lakehouse design, agent orchestration, integration patterns |
+| Present technology strategy, AI adoption, and cyber risk to the board and the PE sponsor | Built the firm's unified data estate on Microsoft Fabric and Snowflake, medallion architecture end to end |
 | EBITDA-aware investment decisions; vendor negotiation and total cost of ownership | Agentic AI workflows running in production, not sitting on a slide |
 | Technology due diligence and post-close integration across a continuous acquisition cadence | Governed API integration across the CRM, portfolio management, financial planning, and advisor stack |
 | Regulatory and resiliency posture under SEC, FINRA, SOX, and state insurance oversight | CISSP / CCSP / CCSK — security architecture I can defend line by line |
@@ -101,7 +101,7 @@ Twenty-five years building the technology that asset and wealth management firms
 
 **Federated AI platform for wealth management** — architecting a multi-model AI platform with leading foundation-model and infrastructure partners, designed to compound advisor productivity, compress cost-to-serve, and hold as a durable moat for a firm that keeps acquiring.
 
-**Unified advisor workspace** — the sprawl of applications an advisor touches daily, collapsed into one AI-native screen. Live pilots on real advisor and client data, with a catalog of AI agents mapped across advisory, operations, and growth workflows.
+**Unified advisor workspace** — the dozen-plus applications an advisor touches daily, collapsed into one AI-native screen. Live pilots on real advisor and client data, with well over a hundred AI agents mapped across advisory, operations, and growth workflows.
 
 **Unified data estate on Fabric and Snowflake** — medallion lakehouse with curated and reporting layers, governed API integration across CRM, portfolio management, financial planning, and AI meeting-intelligence platforms, and master data management underneath enterprise analytics, AI, and Power BI.
 
@@ -127,7 +127,7 @@ CISSP (ISC2) · CCSP (ISC2) · CCSK (CSA) · Azure AI Engineer Associate · AWS 
 
 ## Track record
 
-**Savant Wealth Management** · **University of Chicago** · **William Blair & Company (19 years)** · Allstate Insurance · Allin Consulting · Midland Business Systems
+**PE-backed national RIA (current)** · **University of Chicago** · **William Blair & Company (19 years)** · Allstate Insurance · Allin Consulting · Midland Business Systems
 
 Microsoft Synapse & Power BI Advisory Boards (2021 – 2024). Selected speaking: UChicago Data Science Institute, Booth, and Graham School faculty panels · WEKA Titans of AI · P33 Chicago Tech Week · William Blair LLM Speaker Series · Informatica World.
 
